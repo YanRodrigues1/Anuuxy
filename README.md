@@ -1,34 +1,47 @@
-## ©️ Um pouco sobre quem é o Yan
+<div align="center">
+   
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=552583&size=35&center=true&vCenter=true&width=1000&lines=Olá+eu+sou+o+Yan👋;Hi+there+I'm+Yan👋;Hola+soy+Yan👋)](https://git.io/typing-svg)
+   
+<div align="center">
+      Yan Rodrigues | 💻 Full Stack Developer | 🇧🇷
+     Hello, my name is Yan Rodrigues, but you can call me Anuuxy, I am a student of the Serratec residency program, I am currently studying Full stack.
+</div>
+ 
 
-
-- 👨‍💻 Eu sou Yan Rodrigues, tenho 26 anos e adoro tecnologia e jogos. Acredito que a tecnologia pode mudar a vida das pessoas para melhor, desde que seja utilizada de forma inteligente e criativa. Além disso, sou um grande fã de esportes
-
-- 📖 Atualmente sou Residente em TIC pelo Serratec 2023.1
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Anuuxy&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=7B68EE&text_color=D3D3D3&bg_color=0d1117" alt="Anuuxy github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuuxy&layout=compact&hide_border=true&title_color=7B68EE&text_color=D3D3D3&bg_color=0d1117" />
+ <div align="center">  
+   <a href="https://github.com/Anuuxy"> 
+      <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=S4nt1ag&show_icons=true&count_private=true&hide_border=true&title_color=552583&icon_color=552583&text_color=FDB927&bg_color=0d1117" alt="Santiago github stats" /> 
+      <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4nt1ag&layout=compact&hide_border=true&title_color=552583&text_color=D3D3D3&bg_color=0d1117" />
 </div>
 
 
+ <div style="display: inline_block" align="center"><br>
+    <a href="https://www.java.com/pt-BR/"> <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> </a>
+    <a href=https://sqlite.org/index.html><img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /></a>
+    <a href=https://developer.mozilla.org/pt-BR/docs/Web/TypeScript><img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><a/>
+    <a href=https://www.typescriptlang.org><img align="center" alt="TypeScript" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /><a/>
+    <a href=https://html.spec.whatwg.org><img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><a/>
+    <a href=https://developer.mozilla.org/pt-BR/docs/Web/CSS><img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><a/>
+    <a href=https://spring.io><img align="center" alt="CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /><a/>
+     <a href=https://nodejs.org/en><img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /><a/>
+  
+   
+    
+ </div>
+ 
+ ![Snake animation ]()
+ 
+ ## visit count
+ <p align="center"><img align="center" fill="#FFF" src="https://profile-counter.glitch.me/%7BS4nt1ag%7D/count.svg/" /></p>
+       
+ ##
+ <div>
+    <a href="https://www.linkedin.com/in/yan-rodrigues-775b7b270/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-552583?style=for-the-badge&logo=linkedin&logoColor=yellow" target="_blank"></a>
+    <a href="https://www.instagram.com/yan.rodrigues1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-552583?style=for-the-badge&logo=instagram&logoColor=yellow" target="_blank"></a>
+    <a href="mailto:yanrodriguesfm@gmail.com"><img src="https://img.shields.io/badge/Gmail-552583?style=for-the-badge&logo=gmail&logoColor=yellow" target="_blank"></a>
+   </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Yan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Yan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Yan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Yan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Yan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Yan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Yan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
   
-  
--🔎 Onde me encontrar
-<div> 
-  <a href="https://instagram.com/yan.rodrigues1" new target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	  <a href = "mailto:yanrodriguesfm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yan-rodrigues-775b7b270" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-
-
+   
+   
