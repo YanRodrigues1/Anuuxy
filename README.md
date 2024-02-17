@@ -4,14 +4,14 @@
    
 <div align="center">
       Yan Rodrigues | 💻 Full Stack Developer | 🇧🇷
-     Hello, my name is Yan Rodrigues, but you can call me Anuuxy, I am a student of the Serratec residency program, I am currently studying Full stack.
+     Hello, my name is Yan Rodrigues, I am a student of the Serratec residency program, I am currently studying Full stack.
 </div>
  
 
  <div align="center">  
-   <a href="https://github.com/Anuuxy"> 
-      <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Anuuxy&show_icons=true&count_private=true&hide_border=true&title_color=552583&icon_color=552583&text_color=FDB927&bg_color=0d1117" alt="Santiago github stats" /> 
-      <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuuxy&layout=compact&hide_border=true&title_color=552583&text_color=D3D3D3&bg_color=0d1117" />
+   <a href="https://github.com/YanRodrigues1"> 
+      <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=YanRodrigues1&show_icons=true&count_private=true&hide_border=true&title_color=552583&icon_color=552583&text_color=FDB927&bg_color=0d1117" alt="Santiago github stats" /> 
+      <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanRodrigues1&layout=compact&hide_border=true&title_color=552583&text_color=D3D3D3&bg_color=0d1117" />
 </div>
 
 
@@ -32,7 +32,7 @@
  ![Snake animation ]()
  
  ## visit count
- <p align="center"><img align="center" fill="#FFF" src="https://profile-counter.glitch.me/%7BAnuuxy%7D/count.svg/" /></p>
+ <p align="center"><img align="center" fill="#FFF" src="https://profile-counter.glitch.me/%7BYanRodrigues1%7D/count.svg/" /></p>
        
  ##
  <div>
